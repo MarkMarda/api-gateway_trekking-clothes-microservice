@@ -1,6 +1,10 @@
 #env
 .env
 
+#DataBase
+postgres/
+pgadmin/
+
 # compiled output
 /dist
 /node_modules
